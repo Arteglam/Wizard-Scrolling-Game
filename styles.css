@@ -1,6 +1,7 @@
 body {
   font-size: 32px;
   font-family: consolas;
+  overflow: hidden;
 }
 .game-area {
   position: relative;
